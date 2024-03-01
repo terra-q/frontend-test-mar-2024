@@ -66,7 +66,7 @@ Na aplicação, há apenas três rotas a serem trabalhadas, sendo elas:
    
 # Prazo
 
-## Serão considerados pushes realizados até <span style="color:red">**13:00h de 04/03/2024**</span> (sábado)
+## Serão considerados pushes realizados até <span style="color:red">**13:00h de 04/03/2024**</span> (segunda-feira)
 
 Todos os candidatos receberão o aviso e acesso à este teste simultaneamente, portanto, todos terão exatamente o mesmo tempo e oportunidade.
 
