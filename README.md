@@ -29,7 +29,7 @@ Na aplicação, há apenas três rotas a serem trabalhadas, sendo elas:
 - [ ] Na rota "/mapa", adicione um botão flutuante no topo, à esquerda da tela, com um ícone de "zoom in" que você preferir, e que ao ser clicado, deve executar a função ZoomInOut('in') que já existe no código fornecido. Faça um ícone logo abaixo que faça a função ZoomInOut('out') ao ser clicado.
 - [ ] Na rota "/grafico", adicione um gráfico do ChartJS da forma que achar mais adequada, desde que contenha os dados de temperatura e precipitação. (Opcional: adicionar um botão para alternar entre os datasets de temperatura e precipitação ou visualizar ambos datasets ao mesmo tempo).
 - [ ] Adicionar documentação com as melhores práticas às funções originais do repositório que não tiverem nenhum tipo de docstring.
-- [ ] Comentários explicando novas funcionalidades desenvolvidas
+- [ ] Comentários explicando novas funcionalidades desenvolvidas e códigos adicionados.
 - [ ] Crie um botão que altere o mapa de fundo, utilizando a função já existente "ToggleRaster" da forma que achar mais adequado. Ao clicar neste botão, a imagem de satélite (Google Satélite) deve ser alterada para a imagem de mapa de ruas (OpenStreetMap) e vice-versa (As informações para fazer esta alteração estão no arquivo de rotas web.php).
 
 ## Critérios avaliados
@@ -49,9 +49,9 @@ Na aplicação, há apenas três rotas a serem trabalhadas, sendo elas:
 * O uso de ferramentas de IA como GitHub Copilot e ChatGPT é permitido (*inclusive, incentivado*) mas espera-se que o candidato tenha entendimento do código gerado e saiba explicá-lo, se perguntado.
 
 # Submissão
-* Faça uma cópia do repositório, torne-o privado e adicione os usuários **@terra-q** e **@abreufilho** como colaboradores usando o link abaixo:
+* Faça uma cópia do repositório, torne-o privado e adicione os usuários **@Markleymsm** e **@abreufilho** como colaboradores usando o link abaixo:
   * >https://github.com/SEU_USUARIO/frontend-test-mar-2024/settings/access
-* Faça as alterações de modo a cumprir as tarefas deste teste, dê os commits necessários e o push final para o seu repositório remoto no GitHub, lembrando de fazê-lo antes do prazo final (04/03/2024 13:00h).
+* Faça as alterações de modo a cumprir as tarefas deste teste, dê os commits necessários e o push final para o seu repositório remoto no GitHub, lembrando de fazê-lo antes do prazo final (09/03/2024 13:00h).
 * Lembre-se de utilizar sua conta real do GitHub;
 * O tempo de entrega *NÃO* está sendo avaliado, mas envios após a data e hora limite serão desconsiderados.
 * Nenhum código desenvolvido neste teste será utilizado em produção/comercialmente pela TerraQ.
@@ -66,7 +66,7 @@ Na aplicação, há apenas três rotas a serem trabalhadas, sendo elas:
    
 # Prazo
 
-## Serão considerados pushes realizados até <span style="color:red">**13:00h de 04/03/2024**</span> (segunda-feira)
+## Serão considerados pushes realizados até <span style="color:red">**13:00h de 09/03/2024**</span> (sexta-feira)
 
 Todos os candidatos receberão o aviso e acesso à este teste simultaneamente, portanto, todos terão exatamente o mesmo tempo e oportunidade.
 
